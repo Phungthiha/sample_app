@@ -1,0 +1,20 @@
+vi:
+  hello: "chao the gioi"
+  static_pages: 
+    home: 
+      this: "đây là trang chính cho"
+      app : "ung dụng mẫu"
+      sample: "ứng dụng mẫu"
+      a: "ứng dụng mâu của Ruby on Rails"
+      h: "nhà"
+    help:
+      help: "giúp đỡ"
+      word: "linh xinh gái"
+      word2: "hà xinh gái"
+    about:
+      about: "thuộc về"
+      world: "mười đẹp trai"
+      baby: "cô gái đáng yêu"
+      helpme: "hô trợ"
+application:
+  title: "ứng dụng mẫũ của Ruby on Rails"

@@ -25,7 +25,9 @@ class UsersController < ApplicationController
     end
   end
 
-  def show; end
+  def show
+    @microposts = @user.microposts.order_desc.page(params[:page]).per Settings.microposts_number
+  end
 
   def edit; end
 

@@ -18,6 +18,8 @@ gem "sqlite3", "~> 1.3.6"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
 gem "faker"
+gem "carrierwave", "1.2.2"
+gem "mini_magick", "4.7.0"
 gem "kaminari"
 gem "figaro"
 
@@ -30,6 +32,11 @@ group :development do
   gem "spring"
   gem "spring-watcher-listen", "~> 2.0.0"
   gem "web-console", ">= 3.3.0"
+end
+
+group :production do
+  gem "pg", "0.20.0"
+  gem "fog", "1.42"
 end
 
 group :test do

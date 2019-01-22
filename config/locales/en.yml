@@ -27,3 +27,7 @@ en:
       home: "Home"
       help: "Help"
       log: "Login"
+  users:
+    new:
+      sign_up: "Sign up"
+      this_will: "A signup page for new users"

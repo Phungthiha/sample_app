@@ -26,15 +26,25 @@ vi:
       home: "Trang chu"
       help: "Giup do"
       log: "Dang nhap"
+      acc: "Tài khoản"
+      profile: "Cá nhân"
+      settings: "Cá nhân"
+      logout: "Đăng xuất"
+      login: "Đăng nhập"
   users:
     new:
       sign_up: "Đăng ký"
       this_will: "Đây là trang đăng ký cho người dùng mới"
   success: "Chào mừng đến với ứng dụng mẫu!"
-  danger: "Thất bại!"
+  danger: "Thất bại roi!"
   form: "chứa các form"
   error: "lỗi"
   name: "Tên"
   password: "Mật khẩu"
   password_confirmation: "Xác nhận mật khẩu"
   submit: "Tạo tài khoản"
+  sessions_controller:
+    invalid: "Mật khẩu không hợp lệ "
+  sesions:
+    signupnow: "Đăng nhập ngay"
+    login: "Đăng nhập"

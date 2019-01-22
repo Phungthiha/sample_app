@@ -26,6 +26,11 @@ en:
       home: "Home"
       help: "Help"
       log: "Login"
+      acc: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      logout: "Log out"
+      login: "Login"
   users:
     new:
       sign_up: "Sign up"
@@ -38,3 +43,8 @@ en:
   password: "Password"
   password_confirmation: "Password confirmation"
   submit: "Create my account"
+  sessions_controller:
+    invalid: "Invalid email/password combination"
+  sesions:
+    signupnow: "Sign up now"
+    login: "Login"

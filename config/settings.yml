@@ -2,3 +2,4 @@ name_size: 50
 name_max: 255
 name_min: 6
 name_option: 80
+one: 1

@@ -43,6 +43,16 @@ en:
   password: "Password"
   password_confirmation: "Password confirmation"
   submit: "Create my account"
+  profile_updated: "Profile updated"
+  user_deleted: "User deleted"
+  please_log_in.: "Please log in"
+  all_users: "All users"
+  edit_user: "Edit user"
+  update_your_profile: "Update your profile"
+  user_name: "User name"
+  delete: "delete"
+  you_sure: "You sure"
+  noww: "fails now"
   sessions_controller:
     invalid: "Invalid email/password combination"
   sessions:

@@ -43,6 +43,16 @@ vi:
   password: "Mật khẩu"
   password_confirmation: "Xác nhận mật khẩu"
   submit: "Tạo tài khoản"
+  profile_updated: "Cập nhật hồ sơ"
+  user_deleted: "Xóa người dùng"
+  please_log_in.: "Hãy đăng nhập"
+  all_users: "Tất cả người dùng"
+  edit_user: "Xóa người dùng"
+  update_your_profile: "Cập nhật hồ sơ của bạn"
+  user_name: "Tên người dùng"
+  delete: "xóa"
+  you_sure: "Bạn có chắc chắn"
+  noww: "thất bại"
   sessions_controller:
     invalid: "Mật khẩu không hợp lệ "
   sessions:

@@ -2,13 +2,15 @@
 <html>
   <head>
     <title><%= full_title yield :title %></title>
+    <%= render "layouts/shim" %>
     <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
     <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track": "reload" %>
     <%= javascript_include_tag "application", "data-turbolinks-track": "reload" %>
   </head>
   <body>
-    <%= link_to "en", locale: "en" %>
-    <%= link_to "vi", locale: "vi" %>
+    <%= render "layouts/header" %>
     <%= yield %>
+    <%= render "layouts/footer" %>
   </body>
 </html>

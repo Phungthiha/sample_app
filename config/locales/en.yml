@@ -2,14 +2,28 @@ en:
   hello: "Hello world"
   static_pages:
     home:
+      home: "home"
       this: "This is the home page for the"
       app : "sample app"
-      sample: "sample application"
-      a: "Ruby on Rails Tutorial"
-      h: "Home"
+      sample: "Sample application"
+      sig: "Sign up now"
+      welcom: "Welcome"
     help:
-      help: "help"
+      help: "Help"
+      full_title: "Ruby on Rails"
     about:
       about: "about"
   application:
     title: "Ruby on Rails Tutorial Sample App"
+  layouts:
+    footer:
+      by: "by Michael Hartl"
+      the: "The Ruby on Rails Tutorial"
+      about: "About"
+      contact: "Contact"
+      new: "News"
+    header:
+      sample: "SAMPLE APP"
+      home: "Home"
+      help: "Help"
+      log: "Login"

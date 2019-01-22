@@ -1,20 +1,15 @@
 en:
   hello: "Hello world"
-  static_pages: 
-    home: 
+  static_pages:
+    home:
       this: "This is the home page for the"
       app : "sample app"
       sample: "sample application"
       a: "Ruby on Rails Tutorial"
       h: "Home"
     help:
-      help: "help" 
-      word: "linh beauty"
-      word2: "ha beauty"
+      help: "help"
     about:
       about: "about"
-      world: "muoi handsome"
-      baby: "baby girl"
-      helpme: "support"
-application:
-  title: "Ruby on Rails Tutorial Sample App"
+  application:
+    title: "Ruby on Rails Tutorial Sample App"

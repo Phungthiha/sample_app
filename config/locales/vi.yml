@@ -2,14 +2,27 @@ vi:
   hello: "chao the gioi"
   static_pages:
     home:
-      this: "đây là trang chính cho"
+      home: "trang chủ"
+      this: "Đây là trang chính cho"
       app : "ung dụng mẫu"
-      sample: "ứng dụng mẫu"
-      a: "ứng dụng mâu của Ruby on Rails"
-      h: "nhà"
+      sample: "Ứng dụng mẫu"
+      sig: "Đăng ký ngay"
+      welcom: "Chào mừng"
     help:
-      help: "giúp đỡ"
+      help: "Giúp đỡ"
     about:
       about: "thuộc về"
   application:
     title: "ứng dụng mẫũ của Ruby on Rails"
+  layouts:
+    footer:
+      by: "thực hiện bởi Michael Hartl"
+      the: "Day la Ruby on Rails Tutorial"
+      about: "Gioi thieu"
+      contact: "Lien lac"
+      new: "Tin tuc"
+    header:
+      sample: "ỨNG DỤNG MẪU"
+      home: "Trang chu"
+      help: "Giup do"
+      log: "Dang nhap"

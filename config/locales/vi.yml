@@ -26,3 +26,7 @@ vi:
       home: "Trang chu"
       help: "Giup do"
       log: "Dang nhap"
+  users:
+    new:
+      sign_up: "Đăng ký"
+      this_will: "Đây là trang đăng ký cho người dùng mới"

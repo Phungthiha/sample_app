@@ -1,5 +1,4 @@
 en:
-  hello: "Hello world"
   static_pages:
     home:
       home: "home"
@@ -31,3 +30,11 @@ en:
     new:
       sign_up: "Sign up"
       this_will: "A signup page for new users"
+  success: "Welcome to the Sample App!"
+  danger: "falled!"
+  form: "The form contains"
+  error: "error"
+  name: "Name"
+  password: "Password"
+  password_confirmation: "Password confirmation"
+  submit: "Create my account"

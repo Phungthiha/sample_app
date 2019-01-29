@@ -1,5 +1,4 @@
 vi:
-  hello: "chao the gioi"
   static_pages:
     home:
       home: "trang chủ"
@@ -10,6 +9,7 @@ vi:
       welcom: "Chào mừng"
     help:
       help: "Giúp đỡ"
+      full_title: "Ruby on Rails"
     about:
       about: "thuộc về"
   application:
@@ -30,3 +30,11 @@ vi:
     new:
       sign_up: "Đăng ký"
       this_will: "Đây là trang đăng ký cho người dùng mới"
+  success: "Chào mừng đến với ứng dụng mẫu!"
+  danger: "Thất bại!"
+  form: "chứa các form"
+  error: "lỗi"
+  name: "Tên"
+  password: "Mật khẩu"
+  password_confirmation: "Xác nhận mật khẩu"
+  submit: "Tạo tài khoản"

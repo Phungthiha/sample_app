@@ -45,6 +45,9 @@ vi:
   submit: "Tạo tài khoản"
   sessions_controller:
     invalid: "Mật khẩu không hợp lệ "
-  sesions:
-    signupnow: "Đăng nhập ngay"
-    login: "Đăng nhập"
+  sessions:
+    new:
+      signupnow: "Đăng nhập ngay"
+      login: "Đăng nhập"
+      remember: "Nhớ trên máy tính"
+      new_user: "tạo người dùng"

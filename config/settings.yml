@@ -2,4 +2,7 @@ name_size: 50
 name_max: 255
 name_min: 6
 name_option: 80
+size_fifty: 50
 one: 1
+size: 80
+pages_limit: 10

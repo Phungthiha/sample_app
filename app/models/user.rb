@@ -9,6 +9,7 @@ class User < ApplicationRecord
    format: {with: VALID_EMAIL_REGEX}, uniqueness: true, uniqueness: {case_sensitive: false}
 
   has_secure_password
+  has_many :microposts, dependent: :destroy
 
   before_save :downcase_email
 
@@ -41,6 +42,10 @@ class User < ApplicationRecord
 
   def current_user? user
     self == user
+  end
+
+  def feed
+    Micropost.where("user_id = ?", id).order_desc
   end
 
   private

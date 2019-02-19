@@ -6,3 +6,10 @@ size_fifty: 50
 one: 1
 size: 80
 pages_limit: 10
+microposts_number: 10
+feed_number: 15
+name_maximum: 140
+gravatar_size_default: 50
+size_five: 50
+name_fifty: 50
+size_picture.megabytes: 5
